@@ -145,4 +145,4 @@ st.dataframe(df.head(20), use_container_width=True)
 st.markdown("---")
 st.caption("Made with ❤️ by Atharva Kadwe | "
            "BSc Computer Science @ BSBI Berlin | "
-           "GitHub: github.com/atharva-kadwe")
+           "https://github.com/atharvakadwe13-collab/salary-predictor.git")
